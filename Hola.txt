@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("hola")
 print("how are you")
 print("tutti buoni")
 print("uwu")
+=======
+print("hola")
+>>>>>>> parent of 73e9729 (Update Hola.txt)
 =======
 print("hola")
 >>>>>>> parent of 73e9729 (Update Hola.txt)
